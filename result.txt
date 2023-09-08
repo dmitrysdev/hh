@@ -1,0 +1,16 @@
+C:\Users\User\PycharmProjects\hh\venv\Scripts\python.exe C:\Users\User\Downloads\hh_json.py 
+Введите интересующую вакансию: axapta
+Обрабатывается страница 0
+Обрабатывается страница 1
+Обрабатывается страница 2
+{'count': 80,
+ 'down': 30536815.25,
+ 'keywords': 'axapta',
+ 'requirements': [{'count': 46, 'name': 'axapta', 'percent': 57.5},
+                  {'count': 20, 'name': 'excel', 'percent': 25.0},
+                  {'count': 19, 'name': 'office', 'percent': 23.75},
+                  {'count': 12, 'name': '', 'percent': 15.0},
+                  {'count': 12, 'name': 'ms', 'percent': 15.0}],
+ 'up': 60795552.75}
+
+Process finished with exit code 0
